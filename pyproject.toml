@@ -1,0 +1,7 @@
+[project]
+name = "ailearn"
+version = "0.1.0"
+description = "AI课程学习项目"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
